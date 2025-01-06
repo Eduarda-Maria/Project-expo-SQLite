@@ -1,2 +1,2 @@
 # Project-expo-SQLite
- projeto react native, expo, expo SQLite
+ project react native, expo, expo SQLite
